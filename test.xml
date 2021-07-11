@@ -1,20 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0">
-
 <channel>
-  <title>W3Schools Home Page</title>
-  <link>https://www.w3schools.com</link>
-  <description>Free web building tutorials</description>
+  <title>2 Players Podcast</title>
+  <link>https://www.githib.com</link>
+  <description>The best in all things Nintendo!</description>
   <item>
-    <title>RSS Tutorial</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>New RSS tutorial on W3Schools</description>
+    <title>test1</title>
+    <link>https://github.com/JJPr0grammer/2Players/test.txt</link>
+    <description>Test One RSS File</description>
   </item>
   <item>
-    <title>XML Tutorial</title>
-    <link>https://www.w3schools.com/xml</link>
-    <description>New XML tutorial on W3Schools</description>
+    <title>test2</title>
+    <link>https://github.com/JJPr0grammer/2Players/test2.txt</link>
+    <description>Test One RSS File</description>
   </item>
 </channel>
-
 </rss>
